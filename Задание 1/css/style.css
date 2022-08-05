@@ -1,0 +1,26 @@
+#svg-button {
+  width: 200px;
+  height: 50px;
+  display:flex;
+  align-items: center;
+  justify-content: space-around;
+  background-color: transparent;
+  border-radius: 3px;
+  background: rgb(64,199,129);
+  color: white;
+  border-color: rgb(33,147,90);
+}
+
+#svg-button:hover {
+  background: rgb(33,147,90);
+}
+
+#btn-text {
+  font-size: 28px;
+}
+
+#btn-icon {
+  padding: 0px;
+  height: 35px;
+  width: 35px;
+}
